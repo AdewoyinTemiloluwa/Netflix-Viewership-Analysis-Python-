@@ -1,4 +1,4 @@
-# Netflix-Viewership-Analysis-Python-
+# Netflix-Viewership-Analysis-Python
 In-depth Exploratory Data Analysis (EDA) on the Netflix Titles dataset from Kaggle
 
 ---
@@ -10,6 +10,12 @@ The objective was to clean, analyze, and visualize real-world streaming data usi
 
 ---
 
+## 🔗 Project Assets
+* [Python Code](https://github.com/AdewoyinTemiloluwa/Netflix-Viewership-Analysis-Python-/blob/main/netflix-data-eda-visualization.ipynb)
+* [Kaggle Jupyter Notebook](https://www.kaggle.com/code/temiloluwaadewoyin/netflix-data-eda-visualization)
+* [Original Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+---
+
 ## 🛠 Tools Used
 
 * Python
@@ -17,7 +23,6 @@ The objective was to clean, analyze, and visualize real-world streaming data usi
 * NumPy
 * Matplotlib
 * Seaborn
-
 ---
 
 ## 📊 Project Process
@@ -26,7 +31,6 @@ The objective was to clean, analyze, and visualize real-world streaming data usi
 * Data cleaning (handling missing values, invalid entries, date formatting, duplicates)
 * Exploratory Data Analysis (EDA)
 * Visualization of key trends
-
 ---
 
 ## 🔎 Key Insights
@@ -36,15 +40,12 @@ The objective was to clean, analyze, and visualize real-world streaming data usi
 * The United States produces the highest number of titles.
 * TV-MA is among the most common content ratings.
 * Netflix has expanded international content in recent years.
-
 ---
 
 ## 💡 Skills Demonstrated
 
-✔ Data cleaning and preprocessing
-✔ Handling real-world messy datasets
-✔ Exploratory Data Analysis
-✔ Data visualization
-✔ Insight extraction and storytelling
-
----
+* Data cleaning and preprocessing
+* Handling real-world messy dataset
+* Exploratory Data Analysis
+* Data visualization
+* Insight extraction and storytelling
